@@ -3,7 +3,7 @@ const getTheTitles = function(books) {
 
     for (let book of books)
         titles.push(book.title)
-    return titles
+    return titles;
         
 
 };
